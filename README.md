@@ -12,7 +12,7 @@
 </h4>
 
 ---
-
+<img align="center" src="https://i.pinimg.com/736x/f6/61/c3/f661c394124b4ed6e4ebd47ddf6ac557.jpg" alt="sk3mi"/>
 <br>
 <h3 align="center">🚀 About Me</h3>  
 
@@ -28,9 +28,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://t.me/sk3mi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="sk3mi" height="30" width="40" /></a>
 <a href="https://instagram.com/sk3mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sk3mi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sk3mik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sk3mik" height="30" width="40" /></a>
-<a href="https://discord.gg/sk3mi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sk3mi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8wDhlaY4DojkfI-4NAOCBA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sk3mik" height="30" width="40" /></a>
+<a href="https://discord.com/users/832517914716012574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sk3mi" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
